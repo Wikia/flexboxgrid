@@ -5,7 +5,7 @@
   --half-gutter-width: calc((var(--gutter-width) * 0.5));
   --xs-min: 30;
   --sm-min: 48;
-  --md-min: 64;
+  --md-min: 66.5;
   --lg-min: 99.75;
   --screen-xs-min: var(--xs-min)em;
   --screen-sm-min: var(--sm-min)em;
